@@ -17,8 +17,6 @@ else:
 
 #print("Finalizó")
 
-
-
 # 3. Pedirle al usuario otro numero (input2)
 
 input2 = input("Digite otro número: ")
@@ -38,6 +36,15 @@ input3 = input1 * input2
 # 5. Imprimir input 3
 
 print(input3)
+
+###########################
+# simplificado
+#def main():
+
+# aqui ponemos el código de arriba
+
+#    if __name__ == "__main__"
+#    main()
 
 #################################################################
 # input1 = "aaa"
